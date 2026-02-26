@@ -62,19 +62,6 @@ I love learning in my free time, especially about new technologies and the lates
 - <img src="https://img.shields.io/badge/Java-Certificate-orange?style=flat-square" /> **Java Certificate**
 - <img src="https://img.shields.io/badge/SQL-Certificate-blue?style=flat-square" /> **SQL Certificate**
 - <img src="https://img.shields.io/badge/JavaScript-Certificate-yellow?style=flat-square" /> **JavaScript Certificate**
--  <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0009-0000-3185-5149"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0009-0000-3185-5149
-    </a>
 
 ### Conclusion
 As a motivated and enthusiastic computer engineering student, I am excited about building a career in web and app development. I look forward to learning, growing, and taking on new challenges as a developer.
