@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Backend Developer<br>Django<br>Python<br>C/C++<br>Java Script<br>
+Backend Developer with expertise in Django and Python, plus strong fundamentals in C/C++ and JavaScript. Passionate about building robust, scalable server-side applications and crafting efficient APIs. Always exploring ways to write cleaner code and optimize performance.
 
 ## 🌐 Socials:
 
