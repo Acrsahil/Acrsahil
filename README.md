@@ -15,14 +15,14 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AcrNischal&label=Profile%20Views&color=00CED1&style=flat" alt="profile views" /> 
-  <img src="https://img.shields.io/github/followers/AcrNischal?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Acrsahil&label=Profile%20Views&color=00CED1&style=flat" alt="profile views" /> 
+  <img src="https://img.shields.io/github/followers/Acrsahil?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
 
 ### About Me
-Hello, I’m Nishchal, a computer engineering student who enjoys building web and mobile applications. I have a good understanding of computer science fundamentals and programming, and I’m always eager to learn new things and improve myself as a developer.
+Hello, I’m Sahil, a computer engineering student who enjoys building Backend applications. I have a good understanding of computer science fundamentals and programming, and I’m always eager to learn new things and improve myself as a developer.
 
 ### Skills
 <p>
@@ -42,8 +42,8 @@ Hello, I’m Nishchal, a computer engineering student who enjoys building web an
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AcrNischal&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AcrNischal&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Acrsahil&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Acrsahil&theme=github_dark" />
 </div>
 
 
