@@ -2,7 +2,7 @@
 <h3 align="center">A Backend developer building the System with code</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Tech+Innovator;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&height=50&lines=Backend+Developer;Open+Source+Enthusiast;Problem+Solver;Tech+Innovator;Always+Learning" alt="Typing SVG" />
 </p>
 
 <div align="center">
